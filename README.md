@@ -2,6 +2,9 @@
 
 This is a simple text-based slot machine game implemented in Python. The game allows users to deposit money, place bets on multiple lines, and spin the slot machine to win based on matching symbols. The winnings are calculated based on the symbols and their respective values.
 
+![image](https://github.com/user-attachments/assets/e661928a-c77f-4f94-a3d2-d0c9e6b85759)
+
+
 ## Table of Contents
 - [How to Play](#how-to-play)
 - [Features](#features)
